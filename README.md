@@ -1,5 +1,4 @@
 # Fotbal-Petr-
-hra pro dva hráče 
-princip známe ne asi
-design v unity
+hra pro dva hráče, 
+design v unity,
 pohled z vrchu
